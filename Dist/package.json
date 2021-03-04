@@ -1,0 +1,16 @@
+{
+  "name": "forsale",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "deploy": "gh-pages -d dist"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "Homepage": "https://remmaso@github.com/forsale",
+  "dependencies": {
+    "gh-pages": "^3.1.0"
+  }
+}
